@@ -1,0 +1,15 @@
+{
+  "name": "javascript-promises-handbook-for-advanced-devs",
+  "version": "1.0.0",
+  "description": "Repository containing code examples for the comprehensive Medium guide on mastering JavaScript Promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "ws": "^8.14.2"
+  }
+}
