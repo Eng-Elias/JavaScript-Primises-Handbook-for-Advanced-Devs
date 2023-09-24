@@ -36,3 +36,5 @@ If you'd like to contribute to this repository by adding more examples, improvin
 This repository is licensed under the [MIT License](LICENSE), allowing you to use the code for your projects and modify it as needed.
 
 ---
+
+Read the full Medium article: [JavaScript Promises Decoded: A Comprehensive Handbook for Advanced Devs](https://medium.com/@eng_elias/javascript-promises-decoded-a-comprehensive-handbook-for-advanced-devs-593a2954285a)
